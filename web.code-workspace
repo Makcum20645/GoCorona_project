@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../htmi tags_1"
+		},
+		{
+			"path": "../htmi tags_3"
+		},
+		{
+			"path": "../css 1 урок 4"
+		},
+		{
+			"path": "../css 2 урок 6"
+		},
+		{
+			"path": "../css 3 урок 7"
+		},
+		{
+			"path": "../css 4 урок 8"
+		},
+		{
+			"path": "../css 5 урок 9 background"
+		},
+		{
+			"path": "../css 6 урок 10 псевдоклассы"
+		},
+		{
+			"path": "../css 7 урок 11 псевдоэлементы"
+		},
+		{
+			"path": "../css 8 урок 12 позиционирование"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sass 9 урок 13"
+	}
+}
